@@ -36,6 +36,7 @@
    <h1> Thankyou, Keep Learning </h1>
    <h1> Push 3 from SCM Pull<h1>
    <h1> Build and Deploy on Container <h1>
-   <h1>	build and deploy on container using Ansible fixed <h1>	   
+   <h1>	build and deploy on container using Ansible fixed <h1>
+   <h1> build and deploy on container on docker host via docker image<h1> 		   
   
 </form>
