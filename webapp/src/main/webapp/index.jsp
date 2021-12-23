@@ -39,6 +39,6 @@
    <h1>	build and deploy on container using Ansible fixed <h1>
    <h1> build and deploy on container on docker host via docker image<h1>
    <h1> deployed via regapp_ci_job<h1>
-   <h1> run two jobs <h1>		   
+   <h1> run two jobs new <h1>		   
   
 </form>
